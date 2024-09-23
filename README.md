@@ -14,7 +14,7 @@
   <br>
   📚 MSc and BSc in Biomedical Engineering.
   <br>
-  🎯 My goals involve continuously increasing my knowledge in Data Science & AI, doing projects that stimulate my development and getting out of my comfort zone.
+  🎯 My goals involve continually increasing my knowledge in Data Science and AI, doing projects that stimulate my development and leaving my comfort zone.
 </p>
 
 <!--
