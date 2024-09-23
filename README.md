@@ -34,8 +34,8 @@
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="60" height="50"/>
   </a>
-  <a href="https://logodix.com/sql" target="_blank" rel="noreferrer">
-    <img src="/logo/541959.jpg" alt="sql" width="60" height="50"/>
+  <a href="https://pnghut.com/png/gRuceD82g3/microsoft-sql-server-mysql-database-logo-information-brand-transparent-png" target="_blank" rel="noreferrer">
+    <img src="https://img1.pnghut.com/17/4/21/gRuceD82g3/information-brand-mysql-query-language-sql-injection.jpg" alt="sql" width="60" height="50"/>
   </a>
   <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="60" height="50"/>
@@ -55,11 +55,8 @@
   <a href="https://suhaskayarkar.blogspot.com/2017/06/mongodb-installation-configuration-on.html" target="_blank" rel="noreferrer">
     <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="70" height="50"/>
   </a>
-  <a href="https://suhaskayarkar.blogspot.com/2017/06/mongodb-installation-configuration-on.html" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="70" height="50"/>
-  </a>
   <a href="https://dwglogo.com/redis/" target="_blank" rel="noreferrer">
-    <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png 924w, https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo-150x85.png 150w, https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo-300x169.png 300w, https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo-768x433.png 768w, https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo-1024x577.png 1024w" alt="redis" width="70" height="50"/>
+    <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="70" height="50"/>
   </a>
 
 <hr/>
