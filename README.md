@@ -19,15 +19,17 @@
 
 <br><br>
 <h3 align="center">📈 My GitHub Stats:</h3>
+  <!--
   <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </p>
+  -->
 
   <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=samarjitsahoo&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoTex98&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
   </p>
   <p align="center">
-    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=samarjitsahoo&hide_border=true&theme=transparent" /> 
+    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoTex98&hide_border=true&theme=transparent" /> 
   </p>
 
 
