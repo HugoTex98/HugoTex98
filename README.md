@@ -10,7 +10,9 @@
   👨‍💻 Working as Data Scientist, with an MSc and BSc in Biomedical Engineering.
 </h4>
 
+<!--
 <hr/>
+-->
 <h2 align="center">
   🛠️ Languages and Tools:
 </h2>
@@ -59,7 +61,6 @@
     <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="70" height="50"/>
   </a>
 
-<hr/>
 <h2 align="center">📈 My GitHub Stats:</h2>
   <!--
   <p align="center">
