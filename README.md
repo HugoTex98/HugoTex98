@@ -7,9 +7,9 @@
 </h1>
 
 <h2 align="center">
-  🛠️ About me:
+  🤓 About me:
 </h2>
-<p align="center">
+<p align="Left">
   💻 Currently working as Data Scientist. I've been working on many fields of Data Science, from Computer Vision, Natural Language Processing and Predictive Modelling.
   <br>
   📚 MSc and BSc in Biomedical Engineering.
@@ -81,7 +81,13 @@
     <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoTex98&hide_border=true&theme=transparent"/> 
   </p>
   
-
+<h2 align="center">
+  👥 Contributions:
+</h2>
+<p align="left">
+  I'm always open to collaboration and feedback! If you have any ideas or would like to contribute to any of my projects, feel free to open an issue or submit a pull request. 
+  I love working in a team and learning from others.
+</p>
 
 
 <!--
