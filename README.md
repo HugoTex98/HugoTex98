@@ -1,4 +1,4 @@
-<img src='https://static0.gamerantimages.com/wordpress/wp-content/uploads/2022/06/Red-Dead-Redemption-2-Key-Art-Cropped.jpg?q=50&fit=contain&w=1140&h=&dpr=1.5'>
+<img src='https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media'>
 <h2 align="center">
   Hi there 👋 Welcome to my GitHub Repository! 🚀
 </h2>
