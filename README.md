@@ -1,11 +1,20 @@
-<img align="center" src='https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media' width="600" height="400">
+<p align="center">
+  <img align="center" src='https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media' width="600" height="400">
+</p>
+  
 <h1 align="center">
   Hi there 👋 Welcome to my GitHub Repository! 🚀
 </h1>
-<h4 align="center">👨‍💻 Working as Data Scientist, with an MSc in Biomedical Engineering and Biophysics.</h4>
+
+<h4 align="center">
+  👨‍💻 Working as Data Scientist, with an MSc in Biomedical Engineering and Biophysics.
+</h4>
 
 <hr/>
-<h2 align="center">🛠️ Languages and Tools:</h2>
+<h2 align="center">
+  🛠️ Languages and Tools:
+</h2>
+
 <p align="center">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="50"/>
@@ -16,25 +25,24 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="50"/>
   </a>
-  <p align="center">
+  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="50"/>
-  </p>
-  <p align="center">
+  </a>
+  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="70" height="50"/>
-  </p>
-  <p align="center">
+  </a>
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="70" height="50"/>
-  </p>
-  <p align="center">
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="70" height="50"/>
-  </p>
-  <p align="center">
+  </a>
+  <a href="https://postman.com" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="70" height="50"/>
-  </p>
-  <p align="center">
+  </a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="50"/>
-  </p>
-
+  </a>
 
 <hr/>
 <h2 align="center">📈 My GitHub Stats:</h2>
