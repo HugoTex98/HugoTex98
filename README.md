@@ -86,8 +86,8 @@
 </p>
 
 <p align="center">
-<a href="https://github.com/HugoTex98?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=jrohitofficial&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@HugoTex98's github-readme-stats"/></a>
-<a href="https://github.com/HugoTex98?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HugoTex98&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@RJ's github-readme-streak-stats"/></a>
+<a href="https://github.com/HugoTex98?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=HugoTex98&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@HugoTex98's github-readme-stats"/></a>
+<a href="https://github.com/HugoTex98?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HugoTex98&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@HugoTex98's github-readme-streak-stats"/></a>
 </p>
   
 <h2 align="center">
