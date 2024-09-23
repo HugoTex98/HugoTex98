@@ -11,7 +11,9 @@
 </h2>
 <p align="center">
   💻 Currently working as Data Scientist. I've been working on many fields of Data Science, from Computer Vision, Natural Language Processing and Predictive Modelling.
+  <br>
   📚 MSc and BSc in Biomedical Engineering.
+  <br>
   🎯 My goals involve continuously increasing my knowledge in Data Science & AI, doing projects that stimulate my development and getting out of my comfort zone.
 </p>
 
