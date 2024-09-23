@@ -10,7 +10,7 @@
   🤓 About me:
 </h2>
 <p align="Left">
-  💻 Currently working as Data Scientist. I've been working on many fields of Data Science, from Computer Vision, Natural Language Processing and Predictive Modelling.
+  💻 Currently working as Data Scientist. I have worked in many fields of Data Science, from Computer Vision, Natural Language Processing, Predictive Modeling, and Advanced Analytics.
   <br>
   📚 MSc and BSc in Biomedical Engineering.
   <br>
