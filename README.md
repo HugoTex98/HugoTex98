@@ -16,20 +16,6 @@
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="70" height="50"/>
   </a>
-
-<hr/>
-<h2 align="center">📈 My GitHub Stats:</h2>
-  <!--
-  <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-  </p>
-  -->
-  <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoTex98&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
-  </p>
-  <p align="center">
-    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoTex98&hide_border=true&theme=transparent"/> 
-  </p>
   <p align="center">
     <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="70" height="50"/>
   </p>
@@ -49,6 +35,21 @@
     <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="70" height="50"/>
   </p>
 
+
+<hr/>
+<h2 align="center">📈 My GitHub Stats:</h2>
+  <!--
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+  </p>
+  -->
+  <p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=HugoTex98&hide_border=true&no-bg=true&no-frame=true&layout=compact&theme=transparent&langs_count=10" alt="Top Languages"/>
+  </p>
+  <p align="center">
+    <img alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=HugoTex98&hide_border=true&theme=transparent"/> 
+  </p>
+  
 
 
 
