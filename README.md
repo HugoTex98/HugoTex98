@@ -3,12 +3,17 @@
 </p>
   
 <h1 align="center">
-  Hi there 👋 Welcome to my GitHub Repository! 🚀
+  Welcome to my GitHub Repository! 🚀
 </h1>
 
-<h4 align="center">
-  👨‍💻 Working as Data Scientist, with an MSc and BSc in Biomedical Engineering.
-</h4>
+<h2 align="center">
+  🛠️ About me:
+</h2>
+<p align="center">
+  💻 Currently working as Data Scientist. I've been working on many fields of Data Science, from Computer Vision, Natural Language Processing and Predictive Modelling.
+  📚 MSc and BSc in Biomedical Engineering.
+  🎯 My goals involve continuously increasing my knowledge in Data Science & AI, doing projects that stimulate my development and getting out of my comfort zone.
+</p>
 
 <!--
 <hr/>
