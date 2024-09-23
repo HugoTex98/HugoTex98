@@ -71,7 +71,7 @@
 <h2 align="center">📈 My GitHub Stats:</h2>
   <!--
   <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
   </p>
   -->
   <!--
@@ -83,13 +83,12 @@
   </p>
   -->
 
-  <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=gotham&layout=compact"width="40%"/> 
-</p>
-
 <p align="center">
-<a href="https://github.com/HugoTex98?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=HugoTex98&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@HugoTex98's github-readme-stats"/></a>
-<a href="https://github.com/HugoTex98?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HugoTex98&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@HugoTex98's github-readme-streak-stats"/></a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HugoTex98&theme=nightowl&layout=compact"width="40%"/> 
+</p
+<p align="center">
+  <a href="https://github.com/HugoTex98?tab=repositories"><img src="https://github-readme-stats-one-bice.vercel.app/api?username=HugoTex98&theme=gotham&show_icons=true&count_private=true&hide_border=false&role=OWNER,ORGANIZATION_MEMBER,COLLABORATOR"  width="48%" alt="@HugoTex98's github-readme-stats"/></a>
+  <a href="https://github.com/HugoTex98?tab=stars"><img src="https://github-readme-streak-stats.herokuapp.com?user=HugoTex98&theme=gotham&hide_border=false&date_format=M%20j%5B%2C%20Y%5D"  width="48%" alt="@HugoTex98's github-readme-streak-stats"/></a>
 </p>
   
 <h2 align="center">
