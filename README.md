@@ -27,7 +27,7 @@
 <p align="center">
   <b>Programming Languages:</b>
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="65"/>
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc36bSKd51qFqjmBk_cDA3eNAeYF2Dtc_fWQ&s" alt="matlab" width="50" height="65"/>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="65"/>
 </p>
