@@ -24,18 +24,9 @@
   🛠️ Languages and Tools:
 </h2>
 
-<style>
-  .skill-table td {
-    background-color: #f2f2f2;
-  }
-  .skill-table th, .skill-table td {
-    border: 1px solid black;
-    padding: 10px;
-  }
-</style>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px;">
-  <table class="skill-table" align="center" style="border-collapse: collapse;">
+  <table align="center" style="border-collapse: collapse;">
     <colgroup span="3"></colgroup>
     <colgroup span="3"></colgroup>
     <colgroup span="2"></colgroup>
@@ -54,7 +45,7 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px; background-color: #f2f2f2;">
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px; background-color: '#f2f2f2';">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           <br>Python
         </td>
