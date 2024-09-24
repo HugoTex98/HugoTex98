@@ -34,9 +34,9 @@
 <p align="center">
   <b>DataBases:</b>
   <br>
-  <img src="https://static.vecteezy.com/system/resources/previews/036/145/707/non_2x/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg" alt="sql" width="40" height="40"/>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="40" height="40"/>
-  <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/>
 </p>
 <p align="center">
   <b>Cloud Platforms:</b>
@@ -55,7 +55,7 @@
 <p align="center">
   <b>API Frameworks:</b>
   <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 <p align="center">
