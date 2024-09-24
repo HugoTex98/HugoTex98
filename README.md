@@ -28,6 +28,7 @@
   <table align="center" style="border-collapse: collapse;">
   <colgroup span="3"></colgroup>
   <colgroup span="3"></colgroup>
+  <colgroup span="2"></colgroup>
   <thead>
     <tr>
       <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
@@ -35,6 +36,9 @@
       </th>
       <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
         <b>Databases</b>
+      </th>
+      <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
+        <b>Cloud Platforms</b>
       </th>
     </tr>
   </thead>
@@ -64,57 +68,18 @@
         <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
         <br>Redis
       </td>
+      <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+        <br>MS Azure
+      </td>
+      <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
+        <br>GCP
+      </td>
     </tr>
   </tbody>
 </table>
 
-  
-  <table align="center">
-    <tr>
-        <th colspan="3" style="text-align: center;"><b>Programming Languages</b></th>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-      <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-      <br>MATLAB
-      </td>
-      <td align="center" width="96">
-        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <br>HTML
-      </td>
-    </tr>
-  </table>
-
-  <table align="center">
-    <tr>
-        <th colspan="3" style="text-align: center;"><b>DataBases</b></th>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="80"/>
-      <br>SQL
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="80"/>
-      <br>MongoDB
-      </td>
-      <td align="center" width="96">
-        <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
-      <br>Redis
-      </td>
-    </tr>
-  </table>
-
-<p align="center">
-  <b>Cloud Platforms:</b>
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
-</p>
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
   <br>
