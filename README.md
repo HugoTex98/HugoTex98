@@ -27,9 +27,9 @@
 <p align="center">
   <b>Programming Languages:</b>
   <br>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="70" height="65"/>
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSc36bSKd51qFqjmBk_cDA3eNAeYF2Dtc_fWQ&s" alt="matlab" width="50" height="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 </p>
 <p align="center">
   <b>DataBases:</b>
@@ -47,10 +47,10 @@
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
   <br>
-  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="sklearn" width="50" height="65"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="50" height="65"/>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Ft4r-hJvcSX6To4f0uRj3674MwFnd4aIG570EvnX16PATXD_in-6am7q6M_CdAcl1PkaeEEr_QFhvLtgZSLJwE-elQGAas2o2pb9sOH8z4VGhxA26tpQsxC6I30oxPZ3oQI4_iKWxPo/w320-h205/TF_FullColor_Stacked.png" alt="tensorflow" width="50" height="65"/>
-  <img src="https://smallimg.pngkey.com/png/small/380-3800394_pytorch-logo.png" alt="pytorch" width="50" height="65"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
 </p>
 <p align="center">
   <b>API Frameworks:</b>
