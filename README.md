@@ -75,7 +75,7 @@
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
-          <br>MS Azure
+          <br>Azure
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
