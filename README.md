@@ -34,15 +34,15 @@
 <p align="center">
   <b>DataBases:</b>
   <br>
-  <img src="https://static.vecteezy.com/system/resources/previews/036/145/707/non_2x/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg" alt="sql" width="50" height="65"/>
-  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="50" height="65"/>
-  <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="50" height="65"/>
+  <img src="https://static.vecteezy.com/system/resources/previews/036/145/707/non_2x/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg" alt="sql" width="40" height="40"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="40" height="40"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="40" height="40"/>
 </p>
 <p align="center">
   <b>Cloud Platforms:</b>
   <br>
-  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
 </p>
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
@@ -55,18 +55,18 @@
 <p align="center">
   <b>API Frameworks:</b>
   <br>
-  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="50" height="65"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="65"/>
+  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 <p align="center">
   <b>Automation:</b>
   <br>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="65"/>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
 </p>
 <p align="center">
   <b>Version Control:</b>
   <br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 </p>
 
 <h2 align="center">📈 GitHub Stats:</h2>
