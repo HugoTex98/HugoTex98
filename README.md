@@ -30,6 +30,7 @@
     <colgroup span="3"></colgroup>
     <colgroup span="3"></colgroup>
     <colgroup span="2"></colgroup>
+    <colgroup span="1"></colgroup>
     <thead>
       <tr>
         <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
@@ -38,8 +39,11 @@
         <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
           <b>Databases</b>
         </th>
-        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
+        <th colspan="2" style="text-align: center; border: 1px solid black; padding: 10px;">
           <b>Cloud Platforms</b>
+        </th>
+        <th colspan="1" style="text-align: center; border: 1px solid black; padding: 10px;">
+          <b>Version Control</b>
         </th>
       </tr>
     </thead>
@@ -77,19 +81,22 @@
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
           <br>GCP
         </td>
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          <br>Git
+        </td>
       </tr>
     </tbody>
 </table>
 
 <div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px;">
   <table align="center" style="border-collapse: collapse;">
-    <colgroup span="4"></colgroup>
+    <colgroup span="5"></colgroup>
     <colgroup span="2"></colgroup>
-    <colgroup span="1"></colgroup>
     <colgroup span="1"></colgroup>
     <thead>
       <tr>
-        <th colspan="4" style="text-align: center; border: 1px solid black; padding: 10px;">
+        <th colspan="5" style="text-align: center; border: 1px solid black; padding: 10px;">
           <b>ML/DL Frameworks</b>
         </th>
         <th colspan="2" style="text-align: center; border: 1px solid black; padding: 10px;">
@@ -97,9 +104,6 @@
         </th>
         <th colspan="1" style="text-align: center; border: 1px solid black; padding: 10px;">
           <b>Automation</b>
-        </th>
-        <th colspan="1" style="text-align: center; border: 1px solid black; padding: 10px;">
-          <b>Version Control</b>
         </th>
       </tr>
     </thead>
@@ -121,6 +125,10 @@
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
           <br>PyTorch
         </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="pytorch" width="40" height="40"/>
+          <br>OpenCV
+        </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
           <br>Flask
@@ -132,10 +140,6 @@
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
           <br>Selenium
-        </td>
-        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
-            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-          <br>Git
         </td>
       </tr>
     </tbody>
