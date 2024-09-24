@@ -28,8 +28,8 @@
   <b>Programming Languages:</b>
   <br>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="65"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="65"/>
   <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo-500x281.png" alt="matlab" width="50" height="65"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="65"/>
 </p>
 <p align="center">
   <b>DataBases:</b>
@@ -47,7 +47,7 @@
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
   <br>
-  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="50" height="65"/>
+  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg" alt="sklearn" width="50" height="65"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="50" height="65"/>
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Ft4r-hJvcSX6To4f0uRj3674MwFnd4aIG570EvnX16PATXD_in-6am7q6M_CdAcl1PkaeEEr_QFhvLtgZSLJwE-elQGAas2o2pb9sOH8z4VGhxA26tpQsxC6I30oxPZ3oQI4_iKWxPo/w320-h205/TF_FullColor_Stacked.png" alt="tensorflow" width="50" height="65"/>
   <img src="https://smallimg.pngkey.com/png/small/380-3800394_pytorch-logo.png" alt="pytorch" width="50" height="65"/>
