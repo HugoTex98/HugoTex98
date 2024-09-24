@@ -34,9 +34,9 @@
 <p align="center">
   <b>DataBases:</b>
   <br>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="40" height="40"/>
+  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="80"/>
+  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
 </p>
 <p align="center">
   <b>Cloud Platforms:</b>
