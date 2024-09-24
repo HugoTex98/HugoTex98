@@ -11,9 +11,9 @@
 </h2>
 <p align="Left">
   💻 Currently working as Data Scientist. I have worked in many fields of Data Science, from Computer Vision, Natural Language Processing, Predictive Modeling, and Advanced Analytics.
-  <br>
+  <br><br>
   📚 MSc and BSc in Biomedical Engineering.
-  <br>
+  <br><br>
   🎯 My goals involve continually increasing my knowledge in Data Science and AI, doing projects that stimulate my development and leaving my comfort zone.
 </p>
 
@@ -26,6 +26,7 @@
 
 <p align="center">
   <b>Programming Languages:</b>
+  <br>
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="60" height="50"/>
   </a>
