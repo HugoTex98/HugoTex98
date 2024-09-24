@@ -131,7 +131,7 @@
         </td>
         <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-          <br>MS Selenium
+          <br>Selenium
         </td>
         <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
