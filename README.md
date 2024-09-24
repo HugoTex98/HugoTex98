@@ -24,15 +24,10 @@
   🛠️ Languages and Tools:
 </h2>
 
-<p align="center">
-  <b>Programming Languages:</b>
-  <br>
-</p>
-<table>
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
-        <th colspan="3" style="text-align: center;"><b>Programming Languages</b>b></th>
+        <th colspan="3" style="text-align: center;"><b>Programming Languages</b></th>
     </tr>
     <tr>
       <td align="center" width="96">
