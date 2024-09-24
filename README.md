@@ -179,7 +179,7 @@
 </h2>
 <p align="left">
   I'm always open to collaboration and feedback! If you have any ideas or would like to contribute to any of my projects, feel free to open an issue or submit a pull request. 
-  I love working in a team and learning from others.
+  I love working in a team and learning from others. Let's collaborate and make data work for us! 
 </p>
 
 
