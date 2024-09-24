@@ -11,12 +11,15 @@
 </h2>
 <p align="Left">
   💻 <b>Working as Data Scientist</b>
+  <br>
   I'm a passionate <b>Data Scientist</b> with a diverse experience in various fields of Data Science, including Computer Vision, Natural Language Processing, Predictive Modeling, and Advanced Analytics. My journey in this field has been both exciting and challenging, allowing me to explore the vast potential of data-driven insights in areas like Industry, Energy and Banking. 
   <br><br>
   📚 <b>Education</b>
+  <br>
   I hold both an <b>MSc and a BSc in Biomedical Engineering</b>, which has equipped me with a strong foundation in analytical thinking and problem-solving.
   <br><br>
   🎯 <b>Future Goals</b>
+  <br>
   I am committed to continuously expanding my knowledge in Data Science and AI. I thrive on taking on projects that challenge me, pushing me out of my comfort zone, and stimulating my personal and professional growth. Whether it's mastering new algorithms or exploring innovative applications of technology, I'm always eager to learn and evolve.
 </p>
 
