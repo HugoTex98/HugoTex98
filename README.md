@@ -24,7 +24,7 @@
   🛠️ Languages and Tools:
 </h2>
 
-<div style="display: flex; align-items: flex-start; align: center">
+<div style="display: flex; justify-content: center; gap: 20px;">
   <table align="center">
     <tr>
         <th colspan="3" style="text-align: center;"><b>Programming Languages</b></th>
