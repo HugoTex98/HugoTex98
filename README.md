@@ -45,13 +45,26 @@
     </tr>
   </table>
 
-<p align="center">
-  <b>DataBases:</b>
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="80"/>
-  <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
-</p>
+  <table align="center">
+    <tr>
+        <th colspan="3" style="text-align: center;"><b>DataBases</b></th>
+    </tr>
+    <tr>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="80"/>
+      <br>SQL
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="80"/>
+      <br>MongoDB
+      </td>
+      <td align="center" width="96">
+        <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
+      <br>Redis
+      </td>
+    </tr>
+  </table>
+
 <p align="center">
   <b>Cloud Platforms:</b>
   <br>
