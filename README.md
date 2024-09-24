@@ -1,10 +1,10 @@
-<p align="center">
-  <img align="center" src='https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media' width="500" height="400">
-</p>
-  
 <h1 align="center">
   Welcome to my GitHub Repository! 🚀
 </h1>
+
+<p align="center">
+  <img align="center" src='https://www.googleapis.com/download/storage/v1/b/kaggle-user-content/o/inbox%2F4208294%2F1c014f0a4490cf323418b80648ba44fe%2FDATAAC.jpeg?generation=1577356397338672&alt=media' width="500" height="400">
+</p>
 
 <h2 align="center">
   🤓 About me:
