@@ -45,35 +45,35 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           <br>Python
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
           <br>MATLAB
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
           <br>HTML
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" alt="sql" width="80" height="80"/>
           <br>SQL
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg" alt="mongodb" width="80" height="80"/>
           <br>MongoDB
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/redis/redis-ar21.svg" alt="redis" width="80" height="80"/>
           <br>Redis
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/>
           <br>MS Azure
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
           <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/>
           <br>GCP
         </td>
@@ -105,15 +105,15 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
           <br>Scikit-Learn
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
           <br>HuggingFace
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
           <br>TensorFlow
         </td>
@@ -121,19 +121,19 @@
             <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
           <br>PyTorch
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
           <br>Flask
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
           <br>Postman
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
           <br>Selenium
         </td>
-        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
             <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
           <br>Git
         </td>
