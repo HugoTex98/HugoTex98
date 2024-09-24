@@ -62,15 +62,15 @@
           <br>HTML
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
-          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="80" height="80"/>
+          <img src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" alt="sql" width="40" height="40"/>
           <br>SQL
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
-          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="80" height="80"/>
+          <img src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg" alt="mongodb" width="40" height="40"/>
           <br>MongoDB
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
-          <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="80" height="80"/>
+          <img src="https://www.vectorlogo.zone/logos/redis/redis-icon.svg" alt="redis" width="40" height="40"/>
           <br>Redis
         </td>
         <td align="center" width="90" style="border: 1px solid black; padding: 10px;">
