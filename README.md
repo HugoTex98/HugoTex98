@@ -55,7 +55,7 @@
 <p align="center">
   <b>API Frameworks:</b>
   <br>
-  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="40" height="40"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Flask_logo.svg/1280px-Flask_logo.svg.png" alt="Flask" width="40" height="40"/>
   <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
 </p>
 <p align="center">
