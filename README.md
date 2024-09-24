@@ -45,11 +45,11 @@
     </thead>
     <tbody>
       <tr>
-        <td align="center" bgcolor="#f2f2f2" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
           <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
           <br>Python
         </td>
-        <td align="center" bgcolor="#f2f2f2" width="96" style="border: 1px solid black; padding: 10px;">
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
           <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
           <br>MATLAB
         </td>
@@ -81,30 +81,65 @@
     </tbody>
 </table>
 
-<p align="center">
-  <b>Machine and Deep Learning Frameworks:</b>
-  <br>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
-  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-</p>
-<p align="center">
-  <b>API Frameworks:</b>
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
-</p>
-<p align="center">
-  <b>Automation:</b>
-  <br>
-  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
-</p>
-<p align="center">
-  <b>Version Control:</b>
-  <br>
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-</p>
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px;">
+  <table align="center" style="border-collapse: collapse;">
+    <colgroup span="4"></colgroup>
+    <colgroup span="2"></colgroup>
+    <colgroup span="1"></colgroup>
+    <colgroup span="1"></colgroup>
+    <thead>
+      <tr>
+        <th colspan="4" style="text-align: center; border: 1px solid black; padding: 10px;">
+          <b>ML/DL Frameworks</b>
+        </th>
+        <th colspan="2" style="text-align: center; border: 1px solid black; padding: 10px;">
+          <b>API Frameworks</b>
+        </th>
+        <th colspan="1" style="text-align: center; border: 1px solid black; padding: 10px;">
+          <b>Automation</b>
+        </th>
+        <th colspan="1" style="text-align: center; border: 1px solid black; padding: 10px;">
+          <b>Version Control</b>
+        </th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit-learn" width="40" height="40"/>
+          <br>Scikit-Learn
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="40" height="40"/>
+          <br>HuggingFace
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
+          <br>TensorFlow
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
+          <br>PyTorch
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
+          <br>Flask
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
+          <br>Postman
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="40" height="40"/>
+          <br>MS Selenium
+        </td>
+        <td align="center" width="96" style="border: 1px solid black; padding: 10px;">
+            <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+          <br>Git
+        </td>
+      </tr>
+    </tbody>
+</table>
 
 <h2 align="center">📈 GitHub Stats:</h2>
   <!--
