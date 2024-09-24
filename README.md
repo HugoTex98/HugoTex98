@@ -20,7 +20,7 @@
   <br><br>
   🎯 <b>Future Goals</b>
   <br>
-  I am committed to continuously expanding my knowledge in Data Science and AI. I thrive on taking on projects that challenge me, pushing me out of my comfort zone, and stimulating my personal and professional growth. Whether it's mastering new algorithms or exploring innovative applications of technology, I'm always eager to learn and evolve.
+  I'm committed to continuously expanding my knowledge in Data Science and AI. I thrive on taking on projects that challenge me, pushing me out of my comfort zone, and stimulating my personal and professional growth. Whether it's mastering new algorithms or exploring innovative applications of technology, I'm always eager to learn and evolve.
 </p>
 
 <!--
@@ -179,7 +179,7 @@
 </h2>
 <p align="left">
   I'm always open to collaboration and feedback! If you have any ideas or would like to contribute to any of my projects, feel free to open an issue or submit a pull request. 
-  I love working in a team and learning from others. Let's collaborate and make data work for us! 
+  I love working in a team and learning from others. <b>Let's collaborate and make data work for us!</b>
 </p>
 
 
