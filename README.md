@@ -32,17 +32,20 @@
 <div style="display: flex; align-items: flex-start; align: center">
   <table align="center">
     <tr>
+        <th colspan="3" style="text-align: center;"><b>Programming Languages</b>b></th>
+    </tr>
+    <tr>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
       <br>Python
       </td>
       <td align="center" width="96">
         <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/>
-      <br>Python
+      <br>MATLAB
       </td>
       <td align="center" width="96">
         <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-      <br>Python
+      <br>HTML
       </td>
     </tr>
   </table>
