@@ -27,74 +27,46 @@
 <p align="center">
   <b>Programming Languages:</b>
   <br>
-  <!--
-  <a href="https://www.python.org" target="_blank" rel="noreferrer">
-  -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="50" height="65"/>
-  <!--
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="50" height="65"/>
+  <img src="https://1000logos.net/wp-content/uploads/2021/04/MATLAB-logo-500x281.png" alt="matlab" width="50" height="65"/>
 </p>
 <p align="center">
   <b>DataBases:</b>
   <br>
-  <a href="https://pnghut.com/png/gRuceD82g3/microsoft-sql-server-mysql-database-logo-information-brand-transparent-png" target="_blank" rel="noreferrer">
-    <img src="https://img1.pnghut.com/17/4/21/gRuceD82g3/information-brand-mysql-query-language-sql-injection.jpg" alt="sql" width="50" height="65"/>
-  </a>
-  <a href="https://suhaskayarkar.blogspot.com/2017/06/mongodb-installation-configuration-on.html" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="50" height="65"/>
-  </a>
-  <a href="https://dwglogo.com/redis/" target="_blank" rel="noreferrer">
-    <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="50" height="65"/>
-  </a>
+  <img src="https://static.vecteezy.com/system/resources/previews/036/145/707/non_2x/sql-database-icon-logo-design-ui-or-ux-app-vector.jpg" alt="sql" width="50" height="65"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhSkI2nzH5WBwig7OsGVY_EJQ7UEPT7ME93sqog_gZGcgJ5PMfpQtc4FE9f-NgRBK7p5fholE7dAtfOWFl8ZEDriK8UepG1FQ-Ilq2xrhdCWZDeptmB95iUOpdnU4qWuiDqnu1UFlw9O4FG/s200/mongodb.jpg" alt="mongodb" width="50" height="65"/>
+  <img src="https://dwglogo.com/wp-content/uploads/2017/12/Redis_Logo.png" alt="redis" width="50" height="65"/>
 </p>
 <p align="center">
   <b>Cloud Platforms:</b>
   <br>
-  <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="65"/>
-  </a>
-  <a href="https://cloud.google.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="65"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="50" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="50" height="65"/>
 </p>
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
   <br>
-  <a href="https://huggingface.co/brand" target="_blank" rel="noreferrer">
-    <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="50" height="65"/>
-  </a>
-  <a href="https://www.thedayinfo.com/2020/07/hello-world-avec-tensorflow-20.html" target="_blank" rel="noreferrer">
-    <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Ft4r-hJvcSX6To4f0uRj3674MwFnd4aIG570EvnX16PATXD_in-6am7q6M_CdAcl1PkaeEEr_QFhvLtgZSLJwE-elQGAas2o2pb9sOH8z4VGhxA26tpQsxC6I30oxPZ3oQI4_iKWxPo/w320-h205/TF_FullColor_Stacked.png" alt="tensorflow" width="50" height="65"/>
-  </a>
-  <a href="https://www.pngkey.com/download/u2e6e6r5r5y3t4e6_pytorch-logo/" target="_blank" rel="noreferrer">
-    <img src="https://smallimg.pngkey.com/png/small/380-3800394_pytorch-logo.png" alt="pytorch" width="50" height="65"/>
-  </a>
+  <img src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/260px-Scikit_learn_logo_small.svg.png" alt="sklearn" width="50" height="65"/>
+  <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="50" height="65"/>
+  <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Ft4r-hJvcSX6To4f0uRj3674MwFnd4aIG570EvnX16PATXD_in-6am7q6M_CdAcl1PkaeEEr_QFhvLtgZSLJwE-elQGAas2o2pb9sOH8z4VGhxA26tpQsxC6I30oxPZ3oQI4_iKWxPo/w320-h205/TF_FullColor_Stacked.png" alt="tensorflow" width="50" height="65"/>
+  <img src="https://smallimg.pngkey.com/png/small/380-3800394_pytorch-logo.png" alt="pytorch" width="50" height="65"/>
 </p>
 <p align="center">
   <b>API Frameworks:</b>
   <br>
-  <a href="https://flask.palletsprojects.com/en/2.1.x/" target="_blank" rel="noreferrer">
-    <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="50" height="65"/>
-  </a>
-  <a href="https://postman.com" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="65"/>
-  </a>
+  <img src="https://flask.palletsprojects.com/en/2.1.x/_images/flask-logo.png" alt="Flask" width="50" height="65"/>
+  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="50" height="65"/>
 </p>
 <p align="center">
   <b>Automation:</b>
   <br>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="65"/>
-  </a>
+  <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/selenium-logo.svg" alt="selenium" width="50" height="65"/>
 </p>
 <p align="center">
   <b>Version Control:</b>
   <br>
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="65"/>
-  </a>
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="50" height="65"/>
 </p>
 
 <h2 align="center">📈 GitHub Stats:</h2>
