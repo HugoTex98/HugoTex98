@@ -47,7 +47,7 @@
 <p align="center">
   <b>Machine and Deep Learning Frameworks:</b>
   <br>
-  <img src="/sites/default/files/2019-01/Scikit_learn_logo_950x440.png" alt="sklearn" width="50" height="65"/>
+  <img src="https://icon.icepanel.io/Technology/svg/scikit-learn.svg" alt="sklearn" width="50" height="65"/>
   <img src="https://huggingface.co/datasets/huggingface/brand-assets/resolve/main/hf-logo.svg" alt="huggingface" width="50" height="65"/>
   <img src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj5Ft4r-hJvcSX6To4f0uRj3674MwFnd4aIG570EvnX16PATXD_in-6am7q6M_CdAcl1PkaeEEr_QFhvLtgZSLJwE-elQGAas2o2pb9sOH8z4VGhxA26tpQsxC6I30oxPZ3oQI4_iKWxPo/w320-h205/TF_FullColor_Stacked.png" alt="tensorflow" width="50" height="65"/>
   <img src="https://smallimg.pngkey.com/png/small/380-3800394_pytorch-logo.png" alt="pytorch" width="50" height="65"/>
