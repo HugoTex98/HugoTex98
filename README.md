@@ -39,10 +39,10 @@
     <colgroup span="1"></colgroup>
     <thead>
       <tr>
-        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: grey;">
+        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: #D3D3D3;">
           <b>Programming Languages</b>
         </th>
-        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: grey;">
+        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: #D3D3D3;">
           <b>Databases</b>
         </th>
         <th colspan="2" style="text-align: center; border: 1px solid black; padding: 10px;">
