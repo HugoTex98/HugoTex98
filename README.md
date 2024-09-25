@@ -39,16 +39,16 @@
     <colgroup span="1"></colgroup>
     <thead>
       <tr>
-        <th colspan="3" style="text-align: center; color: #000000; border: 1px solid black; padding: 10px;">
+        <th colspan="3" style="text-align: center; background-color: #000000; border: 1px solid black; padding: 10px;">
           <b>Programming Languages</b>
         </th>
-        <th colspan="3" style="text-align: center; color: #000000; border: 1px solid black; padding: 10px;">
+        <th colspan="3" style="text-align: center; background-color: #000000; border: 1px solid black; padding: 10px;">
           <b>Databases</b>
         </th>
-        <th colspan="2" style="text-align: center; color: #000000; border: 1px solid black; padding: 10px;">
+        <th colspan="2" style="text-align: center; background-color: #000000; border: 1px solid black; padding: 10px;">
           <b>Cloud Platforms</b>
         </th>
-        <th colspan="1" style="text-align: center; color: #000000; border: 1px solid black; padding: 10px;">
+        <th colspan="1" style="text-align: center; background-color: #000000; border: 1px solid black; padding: 10px;">
           <b>Version Control</b>
         </th>
       </tr>
