@@ -31,7 +31,7 @@
 </h2>
 
 
-<div style="display: flex; background-color: #000000; justify-content: center; flex-wrap: nowrap; gap: 20px;">
+<div style="display: flex; justify-content: center; flex-wrap: nowrap; gap: 20px;">
   <table align="center" style="border-collapse: collapse;">
     <colgroup span="3"></colgroup>
     <colgroup span="3"></colgroup>
@@ -39,10 +39,10 @@
     <colgroup span="1"></colgroup>
     <thead>
       <tr>
-        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
+        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: grey;">
           <b>Programming Languages</b>
         </th>
-        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px;">
+        <th colspan="3" style="text-align: center; border: 1px solid black; padding: 10px; background-color: grey;">
           <b>Databases</b>
         </th>
         <th colspan="2" style="text-align: center; border: 1px solid black; padding: 10px;">
